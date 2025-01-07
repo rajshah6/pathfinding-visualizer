@@ -7,6 +7,10 @@
 	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
+<head>
+  <link rel="icon" href="/pathfinding-visualizer/favicon.ico" type="image/x-icon">
+</head>
+
 <div class:light={$theme === 'light'}>
 	<slot />
 </div>
