@@ -1,6 +1,6 @@
 export const locale = {
 	en: {
-		title: 'PATHFINDING VISUALIZER',
+		title: 'PATHVISOR',
 		pickAlgorithm: 'Pick an algorithm to start.',
 		selectStartOrEnd: 'Click the Start (🟦) or End (🟧) node once to change its position.',
 		usePlayer:
