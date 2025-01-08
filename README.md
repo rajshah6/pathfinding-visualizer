@@ -67,6 +67,7 @@ npm run deploy
 ## 🧠 Understanding the Algorithms  
 
 V: The number of vertices (or nodes) in the graph. 
+
 E: The number of edges (connections between the vertices) in the graph.
 
 | Algorithm    | Description                                                                 | Time Complexity         | Space Complexity      |
