@@ -3,7 +3,8 @@
 # PathVisor
 
 </div> 
-**Pathfinding Visualizer for Learning and Exploration**
+
+## Pathfinding Visualizer for Learning and Exploration
 
 PathVisor is an interactive and educational tool designed to visualize popular pathfinding algorithms in action. Whether you're a student, educator, or simply curious about graph theory, PathVisor makes it easy to learn and explore pathfinding concepts in an engaging way.
 
