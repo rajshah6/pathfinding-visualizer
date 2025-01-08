@@ -17,7 +17,7 @@ PathVisor is an interactive and educational tool designed to visualize popular p
 ---
 
 ## 🖼️ Preview  
-![PathVisor Demo](![298891699-e48db58f-af3c-4770-b8dd-c7a5febb50a3](https://github.com/user-attachments/assets/d4097535-57ca-46ba-9bab-999ff46c470f))
+![PathVisor Demo](static/demo.gif)
 
 ---
 
